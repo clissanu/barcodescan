@@ -15,8 +15,10 @@
     "react": "^19.0.0",
     "react-barcode-scanner": "^3.2.1",
     "react-dom": "^19.0.0",
+    "react-qr-code": "^2.0.15",
     "react-router-dom": "^7.2.0",
     "react-scripts": "5.0.1",
+    "scanbot-web-sdk": "^7.0.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
