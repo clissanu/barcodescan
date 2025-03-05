@@ -10,7 +10,7 @@ function Home() {
         className='headerContainer' 
       >
         <h1>Hair Products Scanner</h1>
-        <p>test the scanner</p>
+        <p>test the scanner here</p>
         <Link to="/scanner">
          <button>try it now</button>
         </Link>
